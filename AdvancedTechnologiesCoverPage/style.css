@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Main-Bg {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png);
+    height: 100vh;
+    width: 38vw;
+    background-size: cover;
+}
+
+.box {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 25px;
+    font-family: 'Roboto';
+}
+
+h1 {
+    font-family: 'Bree Serif', 'Roboto';
+    color: #5752ab;
+    font-size: 24px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.button1 {
+    background-color: #ffffff;
+    font-size: 12px;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+    padding: 7px 30px;
+    margin-right: 0.2rem;
+}
+
+.button2 {
+    background-color: #5752ab;
+    font-size: 12px;
+    border-color: transparent;
+    border-radius: 8px;
+    padding: 7px 30px;
+    color: #ffffff;
+    margin-left: 0.2rem;
+}
